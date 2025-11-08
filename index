@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Unavailable</title>
+  <style>
+    html,body {height:100%; margin:0;}
+    body {
+      background:#000;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:#000; /* invisible text if any */
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    }
+  </style>
+</head>
+<body>
+  <!-- empty black page -->
+</body>
+</html>
